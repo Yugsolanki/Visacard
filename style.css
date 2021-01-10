@@ -145,13 +145,13 @@ body {
 }
 
 .expire-box .expire-text {
-  font-size: .4rem;
+  font-size: .45rem;
 }
 
 br {
   display: block;
   content: "";
-  margin-top: -13.5px;
+  margin-top: -12px;
 }
 
 .expire-box .expire-date {
